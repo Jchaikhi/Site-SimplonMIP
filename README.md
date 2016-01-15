@@ -25,4 +25,23 @@ Dans la console :
                   
                   
 
-    
+
+# Design Site Simplon-MIP
+
+Voici les couleurs et les fonts à utiliser pour le design du site.
+
+#### Font :
+
+##### Menu, Footer et Titre (h1, h2, h3 ...)
+Open Sans
+
+##### Texte
+Ubuntu 
+
+#### Couleur
+
+##### Background
+(#FEFEFE)
+
+##### Menu et Footer
+(#1B1C1D)
